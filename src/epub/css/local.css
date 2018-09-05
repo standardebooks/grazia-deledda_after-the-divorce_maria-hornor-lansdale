@@ -19,3 +19,11 @@
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+
+/* from Treasure Island */
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
