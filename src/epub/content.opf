@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/grazia-deledda/after-the-divorce</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/grazia-deledda/after-the-divorce/maria-hornor-lansdale</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -30,6 +30,12 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">After the Divorce</dc:title>
 		<meta property="file-as" refines="#title">After the Divorce</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Romance</dc:title>
+		<meta property="file-as" refines="#subtitle">Romance, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">After the Divorce: A Romance</dc:title>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Italy -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Villages -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Divorce -- Fiction</dc:subject>
@@ -38,39 +44,44 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/39834</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/39834</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/39834</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">After her husband is wrongly convicted of murder, a young Sardinian woman driven into poverty is forced to divorce him and marry a wealthy but abusive landowner in order to survive.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">  &lt;p&gt;Giovanna and Constantino Ledda are a happily married young Sardinian couple living a contented village existence with their small child and extended family. But after Constantino is wrongly convicted of murdering his uncle and imprisoned, the now-impoverished Giovanna reluctantly divorces him under a newly enacted divorce law and marries Brontu Dejas, a wealthy but cruel drunkard who has always coveted her. While enduring a slave's existence within this new marriage as well as the community's derision of her as the &lt;q&gt;woman with two husbands,&lt;/q&gt; the broken Giovanna is unexpectedly reunited with an embittered Constantino after his exoneration and early release from prison, and the couple resumes their now-illicit relationship.&lt;/p&gt; &lt;p&gt;&lt;i&gt;After the Divorce&lt;/i&gt; is among the earliest of the serious works on which Grazia Deledda's literary reputation is based. The first Italian woman to win the Nobel Prize for Literature, which she received in 1926, Deledda critiqued the social norms of her native Sardinia through &lt;i&gt;verismo&lt;/i&gt; depictions of the struggles of the lower classes into which she wove elements of her own personal tragedies. &lt;/p&gt;  </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/39834</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/cu31924027466022</dc:source>
+		<meta property="se:production-notes">I have integrated the corrections in the Project Gutenberg transcription and have verified that the conjectural “n” in “no further” on page 138 exists in the Internet Archive page scan. Also, the inconsistent punctuation indicated in the Project Gutenberg transcription has been normalized.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/After_the_Divorce</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/grazia-deledda_after-the-divorce</meta>
 		<dc:creator id="author">Grazia Deledda</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Deledda, Grazia</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Grazia_Deledda</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79084283</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="translator">Maria Hornor Lansdale</dc:contributor>
+		<meta property="file-as" refines="#translator">Lansdale, Maria Hornor</meta>
+		<meta property="display-seq" refines="#translator">1</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="artist">Jean-Baptiste Corot</dc:contributor>
+		<meta property="file-as" refines="#artist">Corot, Jean-Baptiste</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jean-Baptiste-Camille Corot</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot(artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50020661.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Henry Flower</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Flower, Henry</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">Dede Stolee</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Stolee, Dede</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://dedestolee.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
