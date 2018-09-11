@@ -35,6 +35,7 @@
 		<meta property="file-as" refines="#subtitle">Romance, A</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">After the Divorce: A Romance</dc:title>
+		<meta property="file-as" refines="#fulltitle">After the Divorce: A Romance</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Italy -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Villages -- Fiction</dc:subject>
@@ -45,14 +46,14 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/39834</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/39834</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">After her husband is wrongly convicted of murder, a young Sardinian woman driven into poverty is forced to divorce him and marry a wealthy but abusive landowner in order to survive.</dc:description>
+		<dc:description id="description">After her husband is wrongly convicted of murder, a young Sardinian woman driven into poverty is forced to divorce him and marry a wealthy but abusive man in order to survive.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description">  &lt;p&gt;Giovanna and Constantino Ledda are a happily married young Sardinian couple living a contented village existence with their small child and extended family. But after Constantino is wrongly convicted of murdering his uncle and imprisoned, the now-impoverished Giovanna reluctantly divorces him under a newly enacted divorce law and marries Brontu Dejas, a wealthy but cruel drunkard who has always coveted her. While enduring a slave's existence within this new marriage as well as the community's derision of her as the &lt;q&gt;woman with two husbands,&lt;/q&gt; the broken Giovanna is unexpectedly reunited with an embittered Constantino after his exoneration and early release from prison, and the couple resumes their now-illicit relationship.&lt;/p&gt; &lt;p&gt;&lt;i&gt;After the Divorce&lt;/i&gt; is among the earliest of the serious works on which Grazia Deledda's literary reputation is based. The first Italian woman to win the Nobel Prize for Literature, which she received in 1926, Deledda critiqued the social norms of her native Sardinia through &lt;i&gt;verismo&lt;/i&gt; depictions of the struggles of the lower classes into which she wove elements of her own personal tragedies. &lt;/p&gt;  </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">  &lt;p&gt;Giovanna and Costantino Ledda are a happily married young Sardinian couple living a contented village existence with their small child and extended family. But after Costantino is wrongly convicted of murdering his uncle and imprisoned, the now-impoverished Giovanna reluctantly divorces him under a newly enacted divorce law and marries Brontu Dejas, a wealthy but cruel drunkard who has always coveted her. While enduring a slave's existence within this new marriage as well as the community's derision of her as the &lt;q&gt;woman with two husbands,&lt;/q&gt; the broken Giovanna is unexpectedly reunited with an embittered Costantino after his exoneration and early release from prison, and the two resume their now-illicit relationship.&lt;/p&gt; &lt;p&gt;&lt;i&gt;After the Divorce&lt;/i&gt; is among the earliest of the serious works on which Grazia Deledda's literary reputation is based. The first Italian woman to win the Nobel Prize for Literature, which she received in 1926, Deledda critiqued the social norms of her native Sardinia through &lt;i&gt;verismo&lt;/i&gt; depictions of the struggles of the lower classes into which she wove elements of her own personal tragedies. &lt;/p&gt;  </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/39834</dc:source>
 		<dc:source>https://archive.org/details/cu31924027466022</dc:source>
-		<meta property="se:production-notes">I have integrated the corrections in the Project Gutenberg transcription and have verified that the conjectural “n” in “no further” on page 138 exists in the Internet Archive page scan. Also, the inconsistent punctuation indicated in the Project Gutenberg transcription has been normalized.</meta>
+		<meta property="se:production-notes">I have integrated the corrections from the Project Gutenberg transcription and have verified that the conjectural “n” in “no further” on page 138 exists in the Internet Archive page scan. Also, the inconsistent punctuation indicated in the Project Gutenberg transcription has been normalized.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/After_the_Divorce</meta>
@@ -96,14 +97,60 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-15.xhtml" id="chapter-15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-16.xhtml" id="chapter-16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-17.xhtml" id="chapter-17.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/part-1.xhtml" id="part-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-2.xhtml" id="part-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
+		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="chapter-2.xhtml"/>
+		<itemref idref="chapter-3.xhtml"/>
+		<itemref idref="chapter-4.xhtml"/>
+		<itemref idref="chapter-5.xhtml"/>
+		<itemref idref="chapter-6.xhtml"/>
+		<itemref idref="chapter-7.xhtml"/>
+		<itemref idref="chapter-8.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
+		<itemref idref="chapter-9.xhtml"/>
+		<itemref idref="chapter-10.xhtml"/>
+		<itemref idref="chapter-11.xhtml"/>
+		<itemref idref="chapter-12.xhtml"/>
+		<itemref idref="chapter-13.xhtml"/>
+		<itemref idref="chapter-14.xhtml"/>
+		<itemref idref="chapter-15.xhtml"/>
+		<itemref idref="chapter-16.xhtml"/>
+		<itemref idref="chapter-17.xhtml"/>
+		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
