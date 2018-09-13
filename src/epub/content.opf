@@ -48,7 +48,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">After her husband is wrongly convicted of murder, a young Sardinian woman driven into poverty is forced to divorce him and marry a wealthy but abusive man in order to survive.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description">  &lt;p&gt;Giovanna and Costantino Ledda are a happily married young Sardinian couple living a contented village existence with their small child and extended family. But after Costantino is wrongly convicted of murdering his uncle and imprisoned, the now-impoverished Giovanna reluctantly divorces him under a newly enacted divorce law and marries Brontu Dejas, a wealthy but cruel drunkard who has always coveted her. While enduring a slave's existence within this new marriage as well as the community's derision of her as the &lt;q&gt;woman with two husbands,&lt;/q&gt; the broken Giovanna is unexpectedly reunited with an embittered Costantino after his exoneration and early release from prison, and the two resume their now-illicit relationship.&lt;/p&gt; &lt;p&gt;&lt;i&gt;After the Divorce&lt;/i&gt; is among the earliest of the serious works on which Grazia Deledda's literary reputation is based. The first Italian woman to win the Nobel Prize for Literature, which she received in 1926, Deledda critiqued the social norms of her native Sardinia through &lt;i&gt;verismo&lt;/i&gt; depictions of the struggles of the lower classes into which she wove elements of her own personal tragedies. &lt;/p&gt;  </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Giovanna and Costantino Ledda are a happily married young Sardinian couple living a contented village existence with their small child and extended family. But after Costantino is wrongly convicted of murdering his uncle and imprisoned, the now‐impoverished Giovanna reluctantly divorces him under a newly enacted divorce law and marries Brontu Dejas, a wealthy but cruel drunkard who has always coveted her. While enduring a slave's existence within this new marriage as well as the community's derision of her as the “woman with two husbands,” the broken Giovanna is unexpectedly reunited with an embittered Costantino after his exoneration and early release from prison, and the two resume their now‐illicit relationship.&lt;/p&gt; &lt;p&gt;&lt;i&gt;After the Divorce&lt;/i&gt; is among the earliest of the serious works on which Grazia Deledda's literary reputation is based. The first Italian woman to win the Nobel Prize for Literature, which she received in 1926, Deledda critiqued the social norms of her native Sardinia through verismo depictions of the struggles of the lower classes into which she wove elements of her own personal tragedies.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/39834</dc:source>
@@ -63,6 +65,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Grazia_Deledda</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79084283</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator">Maria Hornor Lansdale</dc:contributor>
 		<meta property="file-as" refines="#translator">Lansdale, Maria Hornor</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
@@ -71,7 +74,7 @@
 		<meta property="file-as" refines="#artist">Corot, Jean-Baptiste</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Jean-Baptiste-Camille Corot</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot(artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50020661.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50020661</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Henry Flower</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Flower, Henry</meta>

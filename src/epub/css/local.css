@@ -20,10 +20,7 @@
 	display: none;
 }
 
-
-/* from Treasure Island */
-
-span[epub|type~="subtitle"]{
+span[epub|type~="subtitle"]{ /* from Treasure Island */
 	display: block;
 	font-weight: normal;
 }
