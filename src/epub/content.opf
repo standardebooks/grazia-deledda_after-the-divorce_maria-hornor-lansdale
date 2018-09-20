@@ -55,7 +55,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/39834</dc:source>
 		<dc:source>https://archive.org/details/cu31924027466022</dc:source>
-		<meta property="se:production-notes">I have integrated the corrections from the Project Gutenberg transcription and have verified that the conjectural “n” in “no further” on page 138 exists via the Internet Archive page scan. Also, I have normalized the inconsistent punctuation noted in the Project Gutenberg transcription and have restored the missing letter “G” from “Grazia plena” on page 320. Finally, I have pulled the translation notes from chapters 8 and 11 from the body of the text into the endnotes.</meta>
+		<meta property="se:production-notes">I have integrated the corrections from the Project Gutenberg transcription and have verified that the conjectural “n” in “no further” on page 138 exists via the Internet Archive page scan. Also, I have normalized the inconsistent punctuation noted in the Project Gutenberg transcription and have restored the missing letter “G” from “Grazia plena” on page 320 via the same. Finally, I have pulled the translation notes from chapters 8 and 11 from the body of the text into the endnotes.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/After_the_Divorce</meta>

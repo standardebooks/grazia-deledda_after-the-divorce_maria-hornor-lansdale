@@ -16,8 +16,3 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-size: .75em;
 	font-weight: normal;
 }
-
-/* Paragraphs following scene breaks */
-br + p{
-	text-indent: 0;
-}
