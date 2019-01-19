@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/grazia-deledda/after-the-divorce/maria-hornor-lansdale</dc:identifier>
 		<dc:date>2018-09-25T23:11:22Z</dc:date>
-		<meta property="dcterms:modified">2018-09-25T23:15:03Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<meta property="dcterms:modified">2019-01-20T17:53:34Z</meta>
+		<meta property="se:revision-number">3</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,7 +57,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/39834</dc:source>
 		<dc:source>https://archive.org/details/cu31924027466022</dc:source>
 		<meta property="se:production-notes">I have integrated the corrections from the Project Gutenberg transcription and have verified that the conjectural “n” in “no further” on page 138 exists via the Internet Archive page scan. Also, I have normalized the inconsistent punctuation noted in the Project Gutenberg transcription and have restored the missing letter “G” from “Grazia plena” on page 320 via the same. Finally, I have pulled the translation notes from chapters 8 and 11 from the body of the text into the endnotes.</meta>
-		<meta property="se:word-count">79744</meta>
+		<meta property="se:word-count">79743</meta>
 		<meta property="se:reading-ease.flesch">70.94</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/After_the_Divorce</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/grazia-deledda_after-the-divorce_maria-hornor-lansdale</meta>
