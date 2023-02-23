@@ -68,7 +68,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Maria Hornor Lansdale</dc:contributor>
 		<meta property="file-as" refines="#translator">Lansdale, Maria Hornor</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jean-Baptiste Corot</dc:contributor>
