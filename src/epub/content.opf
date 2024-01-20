@@ -68,6 +68,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Maria Hornor Lansdale</dc:contributor>
 		<meta property="file-as" refines="#translator">Lansdale, Maria Hornor</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no00007433</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Jean-Baptiste Corot</dc:contributor>
