@@ -37,10 +37,10 @@
 		<dc:title id="fulltitle">After the Divorce: A Romance</dc:title>
 		<meta property="file-as" refines="#fulltitle">After the Divorce: A Romance</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Italy -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Villages -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Divorce -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Sardinia (Italy) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Italy--Fiction</dc:subject>
+		<dc:subject id="subject-2">Villages--Fiction</dc:subject>
+		<dc:subject id="subject-3">Divorce--Fiction</dc:subject>
+		<dc:subject id="subject-4">Sardinia (Italy)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008104656</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
